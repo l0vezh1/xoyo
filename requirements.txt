@@ -1,0 +1,4 @@
+fake_useragent==0.1.11
+selenium==3.141.0
+numpy==1.17.4
+requests==2.22.0
